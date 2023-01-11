@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Swokko
-- 👀 I am looking for a field of programming that interests me
-- 🌱 I’m currently learning Unity 3D
+null
 
 <!---
 Swokko/Swokko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
