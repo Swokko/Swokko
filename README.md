@@ -1,4 +1,4 @@
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/Swokko) 
+[![codewars](https://www.codewars.com/users/Swokko/badges/micro)](https://www.codewars.com/users/Swokko) 
 
 <!---
 Swokko/Swokko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
