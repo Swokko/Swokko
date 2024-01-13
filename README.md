@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Swokko)
 [![codewars](https://www.codewars.com/users/Swokko/badges/large)](https://www.codewars.com/users/Swokko) 
 
 <!---
