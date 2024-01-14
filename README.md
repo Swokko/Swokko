@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Swokko) \
+[![GitHub](https://komarev.com/ghpvc/?username=Swokko)](https://github.com/Swokko) \
 <br />
 [![CodeWars](https://www.codewars.com/users/Swokko/badges/large)](https://www.codewars.com/users/Swokko) \
 <br />
