@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Swokko) \
 <br />
-[![CodeWars](https://www.codewars.com/users/Swokko/badges/large)](https://www.codewars.com/users/Swokko) 
+[![CodeWars](https://www.codewars.com/users/Swokko/badges/large)](https://www.codewars.com/users/Swokko) \
 <br />
 [![LeetCode](https://leetcard.jacoblin.cool/Swokko?theme=dark&font=M%20PLUS%202)](https://leetcode.com/Swokko)
 <!---
