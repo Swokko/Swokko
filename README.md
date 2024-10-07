@@ -4,7 +4,7 @@
 <br />
 [![LeetCode](https://leetcard.jacoblin.cool/Swokko?theme=dark&font=M%20PLUS%202)](https://leetcode.com/Swokko) \
 <br />
-[![Codeium](https://codeium.com/profile/swokko)](https://codeium.com/profile/swokko/card.png)
+[![Codeium](https://codeium.com/profile/swokko/card.png)](https://codeium.com/profile/swokko)
 ![python-shield] 
 ![javascript-shield]
 ![java-shield]
